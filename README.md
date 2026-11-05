@@ -1,15 +1,13 @@
 # 🛒 Indian E-commerce Analytics | End-to-End Data Analytics Project
 
-\<p align="center">
 
 **Turning Raw E-commerce Data into Actionable Business Insights**
 
 
 
-\
 
 
-\</p>
+
 
 ---
 
@@ -229,10 +227,8 @@ Your feedback and suggestions are always welcome.
 
 ---
 
-\<p align="center">
 
 **Built with Python, SQL & Power BI**
 
 *From Raw Data to Business Insights.*
 
-\</p>
